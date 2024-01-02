@@ -1,3 +1,5 @@
+This is an example of one page website based on the [Yat there](https://github.com/jeffreytse/jekyll-theme-yat). The header lists 1st level headings.
+
 # URL
 
 - Pages  [https://ohno.github.io/jekyll-example/](https://ohno.github.io/jekyll-example/)
