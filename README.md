@@ -39,3 +39,9 @@ println("Hello World!")
 ```
 
 ![](./favicon.svg)
+
+# Examples
+
+- https://ycuqpc.github.io/template/
+- https://ycuqpc.github.io/IWQC8th/
+- https://ycuqpc.github.io/JTTCC8th/
