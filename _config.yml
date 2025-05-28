@@ -1,7 +1,9 @@
-# https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-github-pages
-remote_theme: "jeffreytse/jekyll-theme-yat"
+# https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-jekyll-remote-theme-plugin
 
-# https://github.com/jeffreytse/jekyll-theme-yat/blob/master/_config.yml
+remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
+plugins:
+- jekyll-remote-theme
+
 title: Title
 email: ohno.github@gmail.com
 author: Shuhei Ohno
